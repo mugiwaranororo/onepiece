@@ -1,1 +1,1 @@
-load_map("Fushia", coord[3, -2, 0], SOUTH);
+load_map("Fushia", coord[-7, 1, 0], NORTH);
